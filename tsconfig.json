@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"lib": ["dom", "esnext"],
+        "typeRoots": [
+			"node_modules/@types"
+        ]
+	},
+	"include": [
+		"**/*.ts"
+	]
+}
